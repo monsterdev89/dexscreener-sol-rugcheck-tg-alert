@@ -116,5 +116,3 @@ async function main() {
 }
 
 main();
-
-//rug
